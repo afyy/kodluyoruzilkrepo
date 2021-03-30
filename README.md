@@ -31,4 +31,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT]()
 
-![kodluyoruz](C:\Users\333333\Desktop\kodluyoruz\kodluyoruzilkrepo\resim.png)
+![kodluyoruz](https://github.com/afyy/kodluyoruzilkrepo/blob/main/resim.png)
